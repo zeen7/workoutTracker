@@ -1,5 +1,5 @@
 # Workout Tracker
-![](https://imgur.com/7j9SNmh)
+![](https://i.imgur.com/n8qMELj.jpg)
 
 ## About
 Counts number of bicep curls you can do.
